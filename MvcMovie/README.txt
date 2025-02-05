@@ -104,6 +104,51 @@ Moving on to Part 7 - Search :) now i'm Google!
 0922
 Created a github repo....now ready to work again. :)
 
+2025-02-05
+0729
+Reviewing what has been completed...testing.
+Complete MvcMovie today!
+0732 Cool...Movies are populated (still hate the navigation...must change)
+0736 Complete Part 7-10 and push to GitHub repo!
+0826
+Then we want to publish!!!! :)
+
+Clean started at 8:27 AM...
+1>------ Clean started: Project: MvcMovie, Configuration: Debug Any CPU ------
+========== Clean: 1 succeeded, 0 failed, 0 skipped ==========
+========== Clean completed at 8:27 Clean started at 8:27 AM...
+1>------ Clean started: Project: MvcMovie, Configuration: Debug Any CPU ------
+========== Clean: 1 succeeded, 0 failed, 0 skipped ==========
+========== Clean completed at 8:27 AM and took 00.824 seconds ==========
+ and took 00.824 seconds ==========
+
+
+ Now test!
+All good ...now complete the tutorial! 
+0829
+Sweet...now i can apprend the URL to search specific items!
+0833
+Sweet! Added a search field for the user :)
+Now i really am Google ;D
+0837
+Ok...let's add the Rating field!
+
+0838
+Added the 'Rating' field to the Movie object...
+and just did a build....
+1>MvcMovie -> C:\Users\steel\source\repos\MvcMovie\MvcMovie\bin\Debug\net8.0\MvcMovie.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 8:38 AM and took 01.673 seconds ==========
+
+0849
+I think i've done the add Rating field to the DB
+20250205134720_AndrewsRating
+Of course whould test....but first, lets Commit
+
+
+
+
+
 
 
 
